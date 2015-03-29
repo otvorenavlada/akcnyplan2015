@@ -19,6 +19,14 @@ Prečo tieto zmeny? Organizácie verejnej správy by mali **poznať svoj "dátov
 
 Taktiež sa ukázalo, že viaceré rezorty nemajú prehľad o tom, aké všetky dáta sa vlastne v organizáciách v jej pôsobnosti nachádzajú. Vytvorenie dátového inventára spolu s plánom zverejňovania má byť krokom, aby sa tento stav zlepšil. Dáta, ktoré sú v jednotlivých rezortoch "ukryté", môžu byť totiž **užitočné ako pre verejnosť, tak aj pre rezort samotný**.
 
+Dňa 15.3.2015 vstúpilo do platnosti novelizované znenie [Výnosu MF SR o štandardoch pre ISVS č. 55/2014 Z. z.](http://www.zakonypreludi.sk/zz/2014-55). K nemu uvádzame niekoľko poznámok:
+
+- § 2 definuje dataset, pod ktorým sa rozumie "ucelená a samostatne použiteľná skupina súvisiacich údajov vytvorených a udržiavaných na určitý účel a uložených spoločne podľa rovnakej schémy". V [tomto paragrafe](http://www.zakonypreludi.sk/zz/2014-55#p2) sú aj ďalšie definície, ktoré je dobré poznať.
+- § 51 až 53 hovoria o poskytovaní otvorených údajov. Toto sú na Slovensku záväzné technické štandardy.
+- Príloha č. 9 k Výnosu obsahuje zoznam povinných metaúdajov datasetu s otvorenými údajmi.
+
+Úloha aktualizovať dátový inventár bola zadaná pred účinnosťou nového znenia Výnosu MF SR o štandardoch. Plnú technologickú implementáciu Výnosu má realizovať **nový portál data.gov.sk** (vyvíjaný v rámci projektu **eDemokracia a otvorená vláda**), ktorý by mal byť spustený v priebehu roka 2015. Tento Výnos (ku ktorému v čase vydania ešte nie je metodické usmernenie) už teraz dávame do pozornosti. Samotné publikovanie dát by už malo byť v súlade s ním, pokiaľ to bude technicky možné.
+
 ## Postup riešenia
 
 Očakáva sa, že zodpovedné organizácie zaktualizujú informácie o svojich datasetoch a do zoznamu doplnia aj datasety v organizáciách vo svojej pôsobnosti. Pre vypracovanie zoznamu datasetov **odporúčame vychádzať z tabuľky k Akčnému plánu OGP na roky 2012-2013** so stĺpcami v nasledovnej podobe (oproti tabuľke z roku 2012 len mierne upravené):
