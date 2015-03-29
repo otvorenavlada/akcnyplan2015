@@ -37,7 +37,9 @@ Očakáva sa, že zodpovedné organizácie zaktualizujú informácie o svojich d
 - **Odôvodnenie** (odôvodnenie, resp. bližšie vysvetlenie zverejniteľnosti -- v prípade už publikovaného obsahu sa uvedie URL adresa)
 - **Plán zverejnenia** (dátum dokedy budú údaje publikované)
 
-Poznámky:
+Uprednostniť by sa mali tieto typy dát: 1) tie, ktoré organizácia sama vníma ako zmysluplné a zároveň je ich publikovanie technicky nenáročné; a 2) dáta, o ktoré je zo strany verejnosti najväčší záujem (s tým môže pomôcť [úloha č. 3, prieskum dopytu](../uloha-03)).
+
+**Poznámky**:
 
 - V jednom datasete (napr. "obchodný register") môže byť viacero dátových zdrojov (napr. rôzne API, databázové tabuľky a pod.). Najdôležitejšie je uviesť údaje na úrovni detasetu a dátové zdroje spomenúť tam, kde to má význam.
 - Úloha hovorí o "všetkých" datasetoch. Ak by sa chápala ad absurdum, znamenalo by to ešte aj uvádzanie zoznamu čistiacich prostriedkov v každej zo stoviek verejných organizácií. Vytváranie nezmyselných zoznamov pravdaže nie je cieľom. Je potrebné sústrediť sa na **všetky podstatné datasety, ktoré sa týkajú činnosti organizácie** alebo také datasety, ktoré môžu byť aj z iného dôvodu zaujímavé.
