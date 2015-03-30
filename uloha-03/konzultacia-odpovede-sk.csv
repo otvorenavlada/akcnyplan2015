@@ -1,0 +1,559 @@
+Timestamp,Vaše meno (s diakritikou),V koho mene vyplňujete dotazník?,Sprístupnenie ktorých (momentálne nedostupných) údajov je pre Vás dôležité?,Pri ktorých údajoch je potrebné zlepšiť ich dostupnosť?,"Ako otvorené údaje používate, alebo by ste ich chceli použiť?","Je niečo, čím by ste chceli do Open Data ekosystému prispieť Vy sami?",Súhlasíte so zverejnením Vášho mena a organizácie?,Verejné poznámky
+2/26/2015 18:17:54,(neverejné),(neverejné),"1. Údaje z katastra nehnuteľností - ÚGKK
+
+2. informacie a lokalizaciu bodov zaujmu, ktore sa eviduju a ponukaju v ramci oblastnych kancelarii cestovneho ruchu (Napr. v tvare: kratky popis, fotografia, GPS koordinaty, otvaracie hodiny, cena apod.) - Ministerstvo Dopravy, sekcia cestovneho ruchu 
+
+3. informacie a lokalizacia eventov, ktore sa v oblastiach spravovanych oblastnymi kancelariami cestovneho ruchu organizuju (kratky popis, fotografia, GPS koordinaty, cas konania apod.)  - Ministerstvo Dopravy, sekcia cestovneho ruchu 
+
+4. informacie a lokalizaciu bodov zaujmu, ktore sa eviduju ako pamiatky v ramci Registra nehnuteľných NKP (Napr. v tvare: kratky popis, fotografia, GPS koordinaty, otvaracie hodiny, cena apod.) - Ministerstvo Kultury - sekciu kultúrneho dedičstva resp. Pamiatkovy urad Slovenskej republiky
+
+",,,,Nie,
+2/27/2015 10:30:36,Michal Barla,,"Register adries - Min. vnutra SR - sprístupnenie vo formáte vhodnom pre strojové spracovanie
+Stavebné konania - stavebné úrady - sprístupnenie vo formáte vhodnom pre strojové spracovanie","Obchodný register - Min. spravodlivosti SR - sprístupnenie vo formáte vhodnom pre strojové spracovanie
+Kataster - UGKK SR - spristupnenie vo formáte vhodnom pre strojové spracovanie
+Štatistický urad SR - sprístupnenie vo formáte vhodnom pre strojové spracovanie
+Granty, NFP z operačných programov - sprístupnenie vo formáte vhodnom pre strojové spracovanie","Strojové spracovanie, tvorba aplikácií - teda uvítam prístup k inkrementom údajov cez API a časovú pečiatku",,Áno,
+2/28/2015 12:14:55,(neverejné),,"- obchodny register
+- katastralny portal
+- SHMU (historicke data)
+","- obchodny register (sprístupnenie vo formáte vhodnom na strojové spracovanie)
+- katastralny portal (sprístupnenie vo formáte vhodnom na strojové spracovanie)
+- SHMU (sprístupnenie vo formáte vhodnom na strojové spracovanie)",,"- testovanie
+- konzultacie",Nie,
+2/28/2015 19:54:32,Ján Suchal,,"Katastrálne dáta (popisné a vektorové údaje)
+Cestovné poriadky (autobusy, železnice...)
+Obchodný register
+Živnostenský register
+Register organizácii
+Registre MINV
+
+",,,Viem pomôcť sa návrhom API,Áno,
+3/1/2015 20:20:57,(neverejné),,"Databáza miest a obcí vrátane ich mestských /obecných častí a ich ulíc.
+Vhodné by boli aj ich GPS súradnice, ak sú k dispozícií.","zoznam miest a obcí dohľadateľný je, o uliciach sa to už však nedá tvrdiť. Ich GPS súradnice už vôbec nie.",Vytváranie webaplikácie. Konkrétne dáta by boli použité na validáciu a uľahčenie zadávania adresy užívateľom.,Občasné GPS zameriavanie objektov v mojom okolí pre skvalitnenie OpenStreetMaps,Nie,
+3/2/2015 8:53:09,(neverejné),,"Denna agenda narodnej rady - strucny, pocitacovo spracovatelny suhrn o com sa bude v NR rokovat pocas tyzdna.",,"Online sluzba, ktora prehladne zobrazi tyzdnovu agendu poslancov.",vid. vyssie,Nie,
+3/2/2015 9:30:18,Juraj Vidéky,,"V princípe myslím, že všetky údaje, ktoré nie sú explicitne zákonom označené ako neprístupné, by mal štát automaticky sprístupňovať.","Určite je potrebné zlepšiť používanie štandardov - teda nie používať proprietárne formáty údajov (napr. pre textové dokumenty: MS Word = DOC, ale ideálne ODT formát; pre štruktúrované údaje použiť XML spolu s definovaným XSD a pod.).",,,Áno,"Jedna vec je sprístupnenie údajov, druhá komfort pri ich používaní. Ak by napr. boli údaje sprístupnené prostredníctvom jednoduchých XML, toto by malo byť zdarma. Ak však verejná správa investuje napr. do implementácie webových služieb (webservice), tie by pokojne mohli byť spoplatené (ide o pridanú hodnotu; dáta samotné sú prístupné)."
+3/2/2015 9:30:57,Martin Kuštek,,"verejné financie, dotácie, štrukturálne fondy, práca s mládežou, informácie o školstve",čerpanie štrukturálnych fondov a finančných mechanizmov štátov EÚ a EZVO - spravuje datacentrum / úrad vlády,iedu,"publikovanie dátových modelov pre prácu s mládežou, data cleansing, párovanie tripletov",Áno,
+3/2/2015 11:42:54,(neverejné),(neverejné),"1. Zoznamy oprávnených prijímateľov asignácie za jednotlivé roky spätne (2001-2014) - Komora notárov SR - zobrazuju iba aktualny rok: http://www.notar.sk/%C3%9Avod/Not%C3%A1rskecentr%C3%A1lneregistre.aspx
+
+2. Zoznamy jednotlivých právnych foriem MVO (nadácie, neziskové organizácie, neinvestičné fondy, občianske združenia) - nie iba vyhľadávanie v registroch - MV SR: http://www.minv.sk/?registre-evidencie-zoznamy-informacie-o-registracii - napr. Register nadacii: http://www.ives.sk/registre/startrnd.do
+
+3. Komplexné údaje o asignácii za jednotlivé roky - napr. počet poukazovateľov (FO a PO), celkovo poukázané sumy podľa FO a PO, počet dobrovoľníkov poukazujúcich 3%, počet firiem poukazujúcich 2%,... MF SR + Finančná správa, .....","1. Výška poukázaného podielu zaplatenej dane za jednotlivé roky - v XLS - Finančná správa - dnes zobrazované iba v PDF: https://www.financnasprava.sk/sk/elektronicke-sluzby/verejne-sluzby/zoznamy/zoznam-prijimatelov-dane + v starších Zoznamoch pri organizáciách uviesť aj IČO ...
+
+2. Zoznamy zverejnených špecifikácií použitia podielu zaplatenej dane v jednotlivých rokoch v Obchodnom Vestníku - nie iba vyhľadávanie v jednotlivých číslach OV -Obchodný Vestník (MS SR)
+
+",Komplexný pohľad na asignáciu aj prijímateľov podielu zaplatenej dane,,Nie,
+3/3/2015 1:08:10,Ján Letko,"Slovenský futbalový zväz, viac info na http://www.futbalsfz.sk/sfz.html","- verejný register osôb s jedinečným identifikátorom osoby (meno, priezvisko, datum narodenia su vitane)
+- verejný register organizácií (všetky právne formy) aj s údajmi o konateľoch, kontaktných, fakturačných údajov, stavu (aktívna, zaniknutá ...) organizácie a podobne z dôvodu verejného overenia týchto údajov. www.orsr.sk neobsahuje neziskove organizacie a podobne ...
+
+www.cribis.sk je ako register organizacií pekne riesenie, ale je to komercna sluzba pre iny ucel ... (aspon ICO, nazov a adresu si vieme overit na jednom mieste)",- bolo by vhodne aby zakladne datasety boli dostupne pomocou webservices pre pripojenie k existujucim IS organizacii (napríklad na SFZ k ISSF - http://www.futbalsfz.sk/issf ),"pre zjednodusenie overovania osob (viac ako 250 000 osob v zakladnom registri), organizacii (clenov SFZ, viac ako 1900 klubov a 44 zvazov) a ich aktualnych udajov nielen o statutarnych zastupcoch, ale aj fakturacne a komunikacne informacie","momentalne ma nic nenapada, ale nevyhybame sa tomu, zakladne dostupne informacie uz zverejnujeme na www.futbalnet.sk a pripravujeme nove riesenie http://novy.futbalnet.sk",Áno,
+3/4/2015 9:28:20,(neverejné),,"meteorologicke data
+kriminalita podla lokality v mestach (GPS)
+pocet nehod podla lokality v mestach (GPS)
+",,spracovanie,,Nie,
+3/4/2015 20:33:23,Igor Trenk,Cyklokoalicia,prosim Vas chcel by som spristupnit zaznamy(databazu) o kradeziach bez mien konkretnych poskodenych,,"chceli by sme nastavit trend, vzdelavanie v oblasti cyklistiky. spravit infografiku, bohuzial sa samostatne neeviduju tak isto auta ako kradeze bicykli preto by sme chceli spristupnit celu databazu odkial by sme sa chceli vytiahnut tieto data. dakujem",,Áno,
+3/6/2015 12:02:35,Peter Herc,PROFINI n.o.,"Finančná správa - možnosť spárovania DIČ a IČO v registroch finančnej správy SR
+Slovenská konsolidačná - opätovné sprístupnenie registra dĺžníkov  
+Ministerstvo hospodárstva - anonymizovaný prístup do hospodárskeho registra SR
+Štátna a verejná správa - sprístupnenie analýz vplyvu zákonov na znižovanie administratívnej náročnosti",Sociálna poisťovňa - zabezpečenie jednoznačnej identifikácie subjektov sprístupnením IČO,"Spracovanie analýz, projektov ohľadne posudzovania resp. hodnotenia podnikateľského prostredia","Máme záujem v budúcnosti spolupracovať napr. publlikovaním
+Možnosť oslovenia spolupracujúcich expertov ohľadom zapojenia sa do Open Data ekosystému",Áno,
+3/7/2015 18:33:39,Miroslav Jánošík,,"1) Historické (staršie) údaje SHMU - všetky parametre počasia (vidím iba ""Aktuálne informácie o kvalite ovzdušia"")
+2) Namerané informácie o vodných tokoch - informácie z vodohospodárskeho podniku
+3) Informácie o motorových vozidlách - počty vozidiel na Slovensku, merania počtov vozidiel na cestných úsekoch a diaľniciach, nehodovosť",Pri všetkých - verejné sprístupnenie,"Súkromný záujem v sledovaní vývoja počasia a diania na cestách Slovensku, štatistika",,Áno,"Myslím že je množstvo údajov zbieraných rôznymi inštitúciami Slovenskej republiky a tieto údaje by mohli byť verejne zdieľané. Dáta o ktoré som prejavil záujem sú iba tie o ktoré som sa zaujímal v poslednej dobe, myslím že je oveľa viac typov dát ktoré by mohli byť zverejňované a nikomu neublížia, skôr pomôžu občanom, novinárom (aj tým ktorí hľadajú nekalosti), programátorom a firmám."
+3/9/2015 18:41:38,Jaroslav Semančík,KohoVolit.eu,"Cestovné poriadky všetkých registrovaných dopravcov verejnej prepravy osôb (diaľková, prímestská a mestská hromadná doprava). Všetky cestovné poriadky schvaľujú dopravné úrady a pre tento účel a ich nahranie v jednotnom formáte existuje web www.ciscp.sk. Dáta ale nie sú verejne dostupné. Viac info (staršieho dáta): http://www.busportal.sk/modules.php?name=article&sid=5562
+
+Databáza dopravných nehôd. V súčasnosti zverejňuje MINV a PPZ len agregovanú ročnú nehodovosť podľa vybraných kritérií. Chýba možnosť výberu nehôd z databázy a ich agregovanie podľa vlastných kritérií, ich zobrazenie v mape. Viď. analogická verejne prístupná databáza v ČR: www.jdvm.cz","Kataster nehnuteľností: prístup bez captcha, bez obmedzenia počtu dotazov a cez API. Aby bolo možné napr. mať v texte hyperlink na info o konkrétnej parcele bez nútenia každého kto naň klikne vypĺňať captcha.
+
+Volebné štatistiky: Výsledky všetkých volieb až na úroveň okrskov. Dnes sú takto prístupné niektoré z nich, iné nie, hoci prislušné dáta vo verejnej správe existujú. Ďalej zoznamy všetkých (aj neúspešných) kandidátov na kandidátnych listinách. Súvisiace číselníky. Viď.: www.volby.cz v ČR.
+Spracúva Štatistický úrad SR.","Vývoj webových aplikácií využívajúcich verejné dáta (interaktívne vizualizácie, prehľady), tématické analýzy.","Parlamentné dáta NRSR v medzinárodne vznikajúcom OpenGov štandarde Popolo (www.popoloproject.org) verejne dostupné cez REST API na
+http://api.parldata.eu/sk/nrsr/
+
+Popis API tu:
+https://github.com/KohoVolit/api.parldata.eu
+
+Ukážková aplikácia využívajúca dáta z API - prehľadné parlamentné rozpravy, prehľadávateľné a linkovateľné, všetky od vzniku SR:
+http://nrsr.sk.sayit.parldata.eu
+
+Súčasťou projektu ""Parliamentary Monitoring for Transparency and Anti-Corruption Advocacy"" podporeného Vyšehradským fondom. Web projektu:
+www.parldata.eu.
+",Áno,Všeobecne by verejné dáta mali byť sprístupňované jednak na bulk download pre ďalšiu prácu s nimi a jednak cez API pre prípad keď sú potrebné len niektoré individuálne záznamy.
+3/14/2015 15:25:38,Richard Kellner,,"Obchdny register, zivnostensky register, danova sprava, katastralny urad.",,"Rad by som implementoval api volania na overenie ICO, dic, icdph any sa dala overit firma ci zadala spravne udaje, prip stiahnut zvysok (adresa, konatel, atd.). Tiez by bolo fajn overit ci je platca dph.",Mohol by som zverejnit open source python appku ktora by implementovala volania uvedene vyssie.,Áno,
+3/14/2015 15:42:48,Tibor Baďura,www.crystalconsulting.sk,"- register právnických osôb a register fyzických osôb - podnikateľov (živnostenský register)
+- register fyzických adries (adresných bodov)
+- register inštitúcií verejnej správy
+- kataster
+- cestná databanka
+- číselníky","Prvé 3 registre by mali byť vybudované v dohľadnej dobe. Potrebujú ich aj ostatné inštitúcie verejnej správy. Dôležité je ich sprístupniť v strojovo spracovateľnej podobe v zmysle štandardov pre ISVS.
+Kataster a cestná databanka (Slovenská správa ciest) vznikli z peňazí daňových poplatníkov, preto by mali byť verejne dostupné v strojovo spracovateľnej podobe všetkým.","Zatiaľ sme žiadne zmysluplné a hlavne funkčné datasety na Slovensku neobjavili :-(
+Poskytujeme pre samosprávne kraje systém, ktorý spracováva údaje o poskytovateľoch zdravotnej starostlivosti a poskytovateľoch sociálnach služieb. Funkčné registre právnických a fyzických osôb by uľahčili zadávanie údajov do systému. Rovnako tak by pomohla databáza ulíc. Vybudovali sme si síce vlstnú, ale je veľmi prácne ju udržovať aktuálnu.","V prípade súhlasu samosprávnych krajov (BSK, TSK, ŽSK) môžme sprístupniť údaje zverejňované na www.e-vuc.sk",Áno,
+3/14/2015 22:37:26,(neverejné),,"www.katasterportal.sk, www.orsr.sk, faktúry na www.bratislava.sk",,Toto a mnohé iné je potrebné aby sme mali k dispozícií a aby bola reálne transparentná táto vláda.,"Pomôžem ako najviac môžem. Aj dobrovoľnou činnosťou, konzultáciami, čímkoľvek.",Nie,
+3/15/2015 11:59:45,Peter Hanečák,,"1. stavebné konania (jednotlivé miestne aj vyššie stavebné úrady): kde sa kedy a čo mení, kde a kedy bola podaná žiadosť na čo, atď.
+2. evidencia sťažností, podaní, petícií (všetci): anonymizované (alebo aspoň agregované) údaje o tom, kedy a k čomu boli občanmi podané podnety + stav vybavenia
+3. štatistiky kriminality (MV SR, prípadne mestské polície): anonymizované, až na úroveň dní a ulíc
+4. štatistiky dopravných nehôd (MV SR): anonymizované, až na úroveň dní a ulíc
+5. zoznamy či štatistiky počtu a druhov vozidiel v SR (MDVRR SR)
+6. zoznam chránených a inak významných území (SAŽP, možno ďalší): vrátane tzv. ""shape""
+7. zoznam sudcov (MS SR)
+8. zoznam športovísk (MŠ SR)
+9. zoznam múzeí, galérií, knižníc, atď. (MK SR)
+10. zoznam výskumných projektov (MŠ SR)
+11. lesné hospodárske plány (???): kde sa má koľko vyťažiť","1. mapové údaje (Geodetický a kartografický ústav Bratislava, zrejme aj iní): pridať ulice, riadne zdokumentovať (čiastočne existujúce) REST API
+2. zoznam PSČ, ulíc, adresných bodov (Slovenská pošta, MV SR): chýbajú v ňom aktuálne ulice v mnohých mestách + GPS koordináty
+3. Obchodný register (MS SR)
+4. celkovo jeden alebo viac registrov, kde by boli všetky organizácie (s.r.o., a.s., živnostníci, neziskové organizácie, nadácie, o.z., verejné inštitúcie, atď.)
+5. Kataster: sprístupnenie pomocou REST API
+6. zmluvy, objednávky a faktúry (ÚV SR):
+6.a špecificky CRZ.gov.sk: pridať REST API
+6.b všeobecne pre celú štátnu správu a samosprávu: použiť otvorený súborový formát alebo REST API, najlepšie s jednotnou schémou/formátom pre celú SR, ideálne s jednotnou kategorizáciou druhov výdavkov
+7. cestovné poriadky (ŽSR, ale aj iný štátom či samosprávou prevádzkovaní dopravcovia): použiť napr. formát GTFS
+8. plán štátneho rozpočtu (MF SR)
+9. čerpanie štátneho rozpočtu (MF SR): až na úroveň transakcií (jednotlivých platieb)
+10. národné štatistiky (ŠÚ SR) 
+11. obchodný vestník (MS SR) 
+12. súdne rozhodnutia (MS SR)
+13. právne informácie (MS SR) 
+14. informácie o znečistení a emisiách (SHMÚ, možno aj ďalší): voda, vzduch, zem
+15. informácie z rokovaní vlády (ÚV SR): čo a kedy bolo prejednané + linky na materiály + hlasovania
+16. hlasovania poslancov + prepisy ich vystúpení (NR SR)
+17. výsledky volieb (ŠÚ SR)
+18. zoznam rozhodnutí o kontrole (ÚVO): lepšie CSV, t.j. pridať do samotného CSV aj položky ""číslo oznámenia"", ""číslo rozhodnutia"", ""linka na plné znenie rozhodnutia v PDF"", ""ako bolo rozhodnuté"", prípadne ďalšie metaúdaje ak sú k dispozícii
+
+Vo všetkých prípadoch tiež platí:
+
+a) použiť otvorený, strojovo spracovateľný formát, prípadne REST API
+b) uviesť jednoznačnú otvorenú licenciu, ideálne napr. CC-BY
+c) ľahko nájditeľné tlačítko ""stiahnuť / download"" alebo ""API"" (s linkou na API samotné ale aj dokumentáciu k API)
+d) ubezpečiť sa, že je popis údajov a linka na údaje alebo API uvedená na data.gov.sk",komunitné projekty (napr. mapazlocinu.sk) ale ako IT konzultant možno neskôr aj na podnikanie (licencia je veľmi dôležitá - ako SME sa údajov bez licencie radšej nedotknem),"viem zdieľať skúsenosti, to je jedna z vecí ktorú ako člen OpenData.sk robím už dlhšie",Áno,"Dufam, že datasety vyhodnotené ako prioritné vrámci tejto Konzultácie sa objavia na GitHub-e ako ""issue"" a budem(e) môcť sledovať spôsob a rýchlosť riešenia."
+3/15/2015 15:20:05,(neverejné),,"-katastrálne mapy
+-zoznam všetkých existujúcich adries v SR, so zemepisnou polohou
+-zoznamy policajných, hasičských staníc, škôl, nemocníc, pôšt, obecných úradov s ich zemepisnými polohami a adresami.
+-cesty v správe štátu s ich geografickým priebehom (mapy, ale spracovateľné, t.j. vektorové objekty)
+-vodné toky s názvami a ich geografickým priebehom (mapy, ale spracovateľné, t.j. vektorové objekty)","Katastrálny portál sprístupňuje mapy cez plugin, ktorý je nepraktický.",Tvorba voľne šíriteľných máp.,,Nie,
+3/16/2015 10:05:52,Veronika Belianská,,"- zoznam výskumných projektov financovaných z verejných zdrojov
+- zonam projektov celkovo financovaných z verejných zdrojov - priebežne updatovať info a zverejňovať info aj o prebiehajúcich projektoch! 
+- lesné hospodárske plány, kde sa má koľko vyťažiť
+- zoznamy chránených a inak významných území 
+- zoznamy športovísk 
+- zoznamy doktorov v mestách a obciach 
+- zoznamy múzeí, galérií, knižníc, atď.",zlepšiť dátový formát rozpočtov miest a VÚC na Slovensku ,,,Áno,
+3/16/2015 10:49:53,Peter Pavličko,,"ZBGIS (ÚGKK)
+Kataster nehnuteľností (ÚGKK)
+Register adries (MVSR)
+Cestná databanka (SSC-MDVRR SR)
+Ortofotomapy SR",,,,Áno,
+3/16/2015 10:57:14,Ján Roháč,,"Všetky údaje, ktoré nie sú tajné. 
+
+Osobitne dôležité sú pre mňa nasledovné údaje: 
+- kataster
+- porastové mapy
+- správcovia ciest a informácie o cestách
+- informácie o chránených územiach, 
+- správcovia tokov
+- plány starostlivosti o les (bývale lesné hospodárske plány)
+- údaje (štatistiky) o dopravných nehodách, štruktúre ich účastníkov a zavinení;
+- výsledky prieskumov a sčítaní dopravy;
+",,,,Áno,
+3/16/2015 11:19:40,Norbert Brázda,,"Údaje k procesom v oblasti stavebného poriadku (zverejňovať údaje vrátane celých dokumentov od podania žiadosti o územno-plánovaciu informáciu/záväzné stanovisko (vrátane), cez územné/stavebné povolenia, podané námietky, odvolania až po kolaudačné rozhodnutia. Údaje spravujú stavebné úrady (obce, okresné úrady, príp. špeciálne stavebné úrady pre niektoré druhy stavieb).
+
+Údaje k procesom v oblasti životného prostredia (napr. výrubové konania).
+
+Územné plány miest a obcí, technické mapy, evidencia nehnuteľností vo vlastníctve obce a pod. V pôsobnosti obcí a miest. V strojovo spracovateľnej podobe a licenčnými podmienkami umožňujúcimi ďalšie použitie (napr. pridávanie ďalších vrstiev a ich prezentácia). ","Údaje z elektronických úradných tabúľ obcí, miest a orgánov verejnej moci. Strojovo spracovateľné s jednotnou štruktúrou umožňujúcou kategorizáciu/filtrovanie podľa oblasti, typu podania atď.
+
+Všeobecne záväzné nariadenia a uznesenia obecných a mestských zastupiteľstiev v strojovo spracovateľnej podobe so štruktúrou umožňujúcou kategorizáciu/filtrovanie podľa oblasti (napr. VZN o odpadoch, uznesenia týkajúce sa nakladania s majetom obce, ...).
+
+
+
+",,,Áno,
+3/16/2015 13:50:08,Miloš Šrámek,,"stavebné konania, podané žiadosti, zmeny
+štatistiky kriminality, na úrovní obcí a ulíc
+štatistiky dopravných nehôd
+zoznam chránených území, aj s mapovými údajmi
+zoznam výskumných projektov (MŠ SR, SAV)","mapové údaje - kataster, GKÚ, uviesť ulice a ďalšie detaily
+kataster: sprístupnenie pomocou REST API
+aktualizácia zoznamu PSČ na úrovni ulíc, GPS údaje
+cestovné poriadky (ŽSR, ale aj iný štátom či samosprávou prevádzkovaní dopravcovia): použiť napr. formát GTFS
+plán štátneho rozpočtu (MF SR)
+čerpanie štátneho rozpočtu (MF SR)
+obchodný register, registre živnostníkov, občianskych združení,...
+informácie o znečistení a emisiách, ovzdušie, voda, pôda
+informácie z rokovaní vlády (ÚV SR), linky na materiály + hlasovania
+hlasovania poslancov + prepisy ich vystúpení (NR SR)",,,Áno,"používať otvorený, strojovo spracovateľný formát, prípadne REST API
+použivať jednoznačnú otvorenú licenciu, ideálne napr. CC-BY
+ľahko nájditeľné tlačítko ""stiahnuť / download"" alebo ""API"" (s linkou na API samotné ale aj dokumentáciu k API)
+odkaz na dataset uviesť na data.gov.sk
+
+"
+3/16/2015 15:13:12,(neverejné),,"Čo najviac dát z ITMS
+Kompletné a zjednotené dáta o všetkých dotáciách zo štátneho rozpočtu - nie jednotlivo podľa ministerstiev
+Oficiálne geodáta - neviem, či už niekde sú, veľmi som nehľadala, ale mám pocit, že minimálne asi nie sú nejak veľmi jednoducho dostupné
+
+Mimo oblasmôjho bezprostredného záujmu - dáta, ktoré považujem za potenciálne prínosné pre občanov:
+Dáta o kriminalite na úrovni ulíc
+Údaje o platbách zdravotných poisťovní lekárom za úkony","Kataster - zverejnenie info zo všetkých katastrálnych území ako strojovo spracovateľné open data cez API
+VVO ako strojovo spracovateľné open data cez API
+ORSR - ako strojovo spracovateľné open data cez API
+CRZ - ako strojovo spracovateľné open data cez API
+Živnostenský register
+Zoznamy členov komisií rozhodujúcich o prideľovaní dotácií - ako strojovo spracovateľné open data cez API
+V podstate všetky datasety, ktoré sa nachádzajú na: http://datanest.fair-play.sk/datasets?show_bad_quality=true Žiadny s týchto datasetov nie je ""pohodlne"" získateľný priamo zo zdroja bez nutnosti scrapovať alebo ručne spracovávať - ako strojovo spracovateľné open data cez API
+
+Mimo oblasti môjho bezprostredného záujmu - dáta, ktoré považujem za potenciálne prínosné pre občanov:
+MHD a ďalšie dopravné grafikony ako open data, vrátane live údajov o aktuálnej pozícii dopravných prostriedkov a ich meškaní",,Zdieľanie skúseností s open data,Nie,
+3/16/2015 15:31:45,Peter Mikloš,,"Lesné plány starostlivosti o les (PSoL), porastové mapy, 
+plány spoločných poľovačiek,
+úplnú dokumentáciu k schváleným chemickým látkam, najmä pesticídom, taktiež k schváleným liekom a vakcínam","všetky štatistiky Štatistického úradu (napr. zdravotnícke, demografické, ...), ktoré sú zverejňované neúplné alebo až o niekoľko rokov dozadu
+podobne zelené správy, národné plány, s kompletným archívom, ktorý je často po prerobení stránky už nedostupný za staršie roky
+",Jednotný systém GIS s vrstvami od všetkých verejných inštitúcií na jednom mieste,,Áno,
+3/16/2015 15:59:34,Martin Tuchyňa,Slovenská agentúra životného prostredia,"Strojovo spracovateľné otvorené údaje:
+Priestorové údaje o inžinierskych sieťach
+Údaje o obnoviteĺných a neobnoviteľných energetických zdrojoch
+Údaje samospráv
+Údaje pokrytia mobilnými operátormi
+Ortofotosnímky
+Údaje o ľudskom zdraví a bezpečnosti
+Atmosférické a meteorologické údaje
+
+
+","Strojovo spristupnené otvorené údaje:
+Údaje katastra nehnuteľností 
+Digitálny model reliéfu 
+ZBGIS 
+Operát štátneho mapového diela vo forme rastrovej a vektorovej mapy (Úrad geodézie kartografie a katastra)
+Údaje z Centrálneho registra zmlúv
+Údaje z vestníka verejného obstarávania
+Údaje o územných plánoch a využitia územia
+Údaje z registra pôd 
+Harmonizované a centrálne spravované údaje o inštitúciách verejnej správy
+Údaje z referenčných registrov (adresy, fyz,a pr.osoby,obchodný register)
+Údaje z oblasti poľnohospodárstva a potravinárstva
+Štatistické a demografické údaje 
+Údaje z oblasti turizmu a cestovného ruchu (http://www.oma.sk/)","Podpora legislatívnych úloh a požiadaviek praxe v oblasti ochrany a tvorby životného prostredia.
+Harmonizácia a opätovné využitie údajov z oblasti životného prostredia s ďalšími údajmi.","Vybrané údaje a aplikácie z oblasti životného prostredia napr:
+http://smartopendata.sazp.sk/
+http://sdi4apps.eu/
+http://registre.enviroportal.sk/geo/",Áno,
+3/16/2015 16:37:12,Filip Glasa,"FinStat, s.r.o.","Živnostenský register v strojom spracovateľnej forme
+Katastrálny portál v strojom spracovateľnej forme
+Insolvenčný register podobne ako v ČR",,"Obchodný Vestník
+Register Účtovných závierok",Zdieľanie svojich skúseností,Áno,
+3/16/2015 18:37:23,Michal Malý,Cyklokoalícia,"Turistické a cykloturistické trasy (Klub slovenských turistov*, Slovenský cykloklub*, * = nie sú verejná správa, ale činnosť z veľkej časti je financovaná z grantov alebo iných verejných zdrojov)
+
+Vedenie trás EuroVelo (Príslušný VÚC. EV 13: BSK; EV6 BSK+NR+TT; EV 13: PO,KE)
+
+Cestné a dopravné dáta, najmä sčítania cyklistov  (SSC)
+
+Dáta týkajúce sa dochádzky do zamestnania zistené v sčítaní Štatistický úrad: Trojica bydlisko osoby, sídlo zamestnávateľa, čas. Z dôvodov anonymizácie zrejme agregované s vhodnou granularitou (napr. ZSJ alebo napr. štvorec 100x100 m).
+
+Štatistiky dopravných nehôd (MV SR)
+
+Obrazové a textové dáta týkajúce sa pamiatok, pozoruhodností (štát, obce, kultúrne inštitúcie, múzeá)","Demografické dáta (Štatistický úrad): najmä dáta s granularitou ZSJ alebo nižšou (počet obyvateľov, veková štruktúra). 
+
+Mapové dáta, najmä dáta vektorového charakteru (Geodetický a kartografický ústav Bratislava)
+
+Popisné dáta budov a ich určenia (SAŽP, dáta zverejnené napr. na http://rzsj.enviroportal.sk/prehliadac/ ): polygón budovy, charakter (bytový, rodinný dom; škola, multifunkčná budova, atď.)
+
+Katastrálne dáta ( Geodetický a kartografický ústav)
+
+
+","1. Demografické dáta s dostatočnou granularitou je možné použiť pri Cost-Benefit analýze (odpovede na otázky: Koľko ľudí býva v blízkosti navrhovanej cyklotrasy, zastávky?)
+
+2. Dáta týkajúce sa dochádzky možno použiť pri navrhovaní trás MHD, plánovaní cyklotrás, dopravných tokov všeobecne.
+
+3. Popisné dáta budov a ich určenie je možné využiť na ďalšie spresnenie C-B analýzy (z kvantitatívneho charakteru: vzdialenosť zastávky, cyklotrasy od budov, z kvalitatívneho charakteru: obslužnosť
+
+4. Dopravné dáta, najmä dáta o sčítaní cyklistov je možné využiť pri navrhovaní cyklotrás. Ďalej, aj IAD dáta je možné využiť pri navrhovaní vhodných trás pre cyklistov (napr. preferencia dopravne upokojených ciest).
+
+5. Trasovanie turistických a cykloturistických trás: je zabezpečované KST a SCK, je teda problematické ""vyžadovať"" dáta od združení. Vzhľadom však k tomu, že tieto združenia plnia akúsi centrálnu funkciu, a veľká časť ich činnosti je financovaná z verejných zdrojov, bolo by vhodné prizvať a poprosiť ich o spoluprácu.
+
+6. Trasy Eurovelo: Mimoriadne vhodné zverejniť GPS tracky z pohľadu cykloturizmu. Eurovelo je riešené i v rámci EÚ projektov, je zarážajúce, že presné trasovanie týchto významných spojníc nie je zverejnené. (porov. mapky na http://www.eurovelo.sk/en/6 )
+
+7. Otvorené zverejnenie katastrálnych dát významne prispeje k lepšej a pohodlnejšej práci pri urbanistických činnostiach.
+
+8. Zverejnenie štatistiky dopravných nehôd významne prispeje k bezpečnejšiemu návrhu dopravných ťahov, k lepšej práci polície, k lepšej osvete (ktoré priestupky najčastejšie vedú k tragickým nehodám?). Umožní lepšie komunikovať o rizikách a potrebách cyklistov, chodcov.
+
+9. Obrazové a textové dáta týkajúce sa pamiatok, pozoruhodností zverejnené pod open licenciou by mohli využiť občania - prispievatelia do rôznych portálov napr. Wikitravel. Tak budú propagovať turizmus vo svojom regióne (wikitravel je medzinárodne najpoužívanejší turistický bedeker), pričom štát (obec) to nestojí absolútne nič, len ""vzdanie sa"" autorských práv.
+Pre ilustráciu, http://wikitravel.org/en/Bansk%C3%A1_%C5%A0tiavnica neobsahuje ziadne obrázky o našej UNESCO lokalite.
+
+
+
+","Cyklokoalícia aktívne mapuje a navrhuje vedenie cyklotrás najmä na území Bratislavy. Navrhované cyklotrasy sme zanášali i do projektu OSM. 
+
+Nami vypracované analýzy (C-B analýzy, mapy a pod.) zverejníme otvorene (t.j. tak otvorene, ako to umožní licencia použitých dát).
+
+
+",Áno,"Povzbudzujeme všetkých záujemcov o aktívne využívanie dostupných dát, ako aj aktívne prispievanie do ekosystému. 
+
+Radi budeme spolupracovať na projektoch ohľadom mapovania,  analýz, zlepšenia podmienok pre cyklistov a peších."
+3/16/2015 19:24:37,"doc. Ing. Peter Fodrek,PhD.",,"Všetkých dát, ktoré nie sú klasifikované",Daňové údaje a údaje o príjmoch zamestnancov vo verejnom záaujema a v štáatenej službe,Takmer všetky po spracoivaní tertím stranami používam,"Vedením projektov, ktorými študenti spracujú open data do použiteľných aplikácií so vzťahmi ",Áno,
+3/16/2015 20:12:07,(neverejné),(neverejné),"    stavebné konania (jednotlivé miestne aj vyššie stavebné úrady): kde sa kedy a čo mení, kde a kedy bola podaná žiadosť na čo, atď.
+    evidencia sťažností, podaní, petícií (všetci): anonymizované (alebo aspoň agregované) údaje o tom, kedy a k čomu boli občanmi podané podnety + stav vybavenia
+    štatistiky kriminality (MV SR, prípadne mestské polície): anonymizované, až na úroveň dní a ulíc
+    štatistiky dopravných nehôd (MV SR): anonymizované, až na úroveň dní a ulíc
+    zoznamy či štatistiky počtu a druhov vozidiel v SR (MDVRR SR)
+    zoznam chránených a inak významných území (SAŽP, možno ďalší): vrátane tzv. ""shape""
+    zoznam sudcov (MS SR)
+    zoznam športovísk (MŠ SR)
+    zoznam múzeí, galérií, knižníc, atď. (MK SR)
+    zoznam výskumných projektov (MŠ SR)
+    lesné hospodárske plány (???): kde sa má koľko vyťažiť","na týchto 2 URL sú údaje v pdf-kách ktoré sú nescrapovateľné, teda treba sprístupnenie vo formáte vhodnom na strojové spracovanie
+http://www.bratislava.sk/register/vismo/zobraz_dok.asp?id_org=700026&id_ktg=1021&archiv=0&p1=15333
+http://www.bratislava.sk/register/vismo/zobraz_dok.asp?id_org=700026&id_ktg=1154&archiv=0&p1=15331
+
+Ďalej:
+    mapové údaje (Geodetický a kartografický ústav Bratislava, zrejme aj iní): pridať ulice, riadne zdokumentovať (čiastočne existujúce) REST API
+    zoznam PSČ, ulíc, adresných bodov (Slovenská pošta, MV SR): chýbajú v ňom aktuálne ulice v mnohých mestách + GPS koordináty
+    Obchodný register (MS SR)
+    celkovo jeden alebo viac registrov, kde by boli všetky organizácie (s.r.o., a.s., živnostníci, neziskové organizácie, nadácie, o.z., verejné inštitúcie, atď.)
+    Kataster: sprístupnenie pomocou REST API
+    zmluvy, objednávky a faktúry (ÚV SR):
+        špecificky CRZ.gov.sk: pridať REST API
+        všeobecne pre celú štátnu správu a samosprávu: použiť otvorený súborový formát alebo REST API, najlepšie s jednotnou schémou/formátom pre celú SR, ideálne s jednotnou kategorizáciou druhov výdavkov
+    cestovné poriadky (ŽSR, ale aj iný štátom či samosprávou prevádzkovaní dopravcovia): použiť napr. formát GTFS
+    plán štátneho rozpočtu (MF SR)
+    čerpanie štátneho rozpočtu (MF SR): až na úroveň transakcií (jednotlivých platieb)
+    národné štatistiky (ŠÚ SR) 
+    obchodný vestník (MS SR) 
+    súdne rozhodnutia (MS SR)
+    právne informácie (MS SR) 
+    informácie o znečistení a emisiách (SHMÚ, možno aj ďalší): voda, vzduch, zem
+    informácie z rokovaní vlády (ÚV SR): čo a kedy bolo prejednané + linky na materiály + hlasovania
+    hlasovania poslancov + prepisy ich vystúpení (NR SR)
+    výsledky volieb (ŠÚ SR)
+    zoznam rozhodnutí o kontrole (ÚVO): lepšie CSV, t.j. pridať do samotného CSV aj položky ""číslo oznámenia"", ""číslo rozhodnutia"", ""linka na plné znenie rozhodnutia v PDF"", ""ako bolo rozhodnuté"", prípadne ďalšie metaúdaje ak sú k dispozícii","tie pdf preto, aby sme mohli zlepšiť scrapre, ktoré z nich parsujú/budú parsovať dáta
+
+ostatné sú zo zoznamu Petra Hanečáka, a ja tento zoznam chcem takýmto spôsobom podporiť","Robíme scraper challenge - výstupy tu https://morph.io/soit-sk/
+
+Takže ak by ste chceli spraviť scraper na niečo konkrétne, alebo spraviť hackaton, môžete sa mi ozvat na email.",Nie,
+3/16/2015 23:29:36,Matej Štefánek,,"   Plány starostlivosti o les (PSOL staršie LHP): kde sa má koľko vyťažiť   
+
+Mapa poľovných revírov
+
+Údaje o poľovných združeniach (názov, forma organizácie, počet členov, plocha obhospodarovaných revírov, kontakt na poľovného hospodára...)
+
+ stavebné konania (jednotlivé miestne aj vyššie stavebné úrady): kde sa kedy a čo mení, kde a kedy bola podaná žiadosť na čo, atď.
+
+    evidencia sťažností, podaní, petícií (všetci): anonymizované (alebo aspoň agregované) údaje o tom, kedy a k čomu boli občanmi podané podnety + stav vybavenia
+
+    štatistiky kriminality (MV SR, prípadne mestské polície): anonymizované, až na úroveň dní a ulíc
+
+    štatistiky dopravných nehôd (MV SR): anonymizované, až na úroveň dní a ulíc
+
+    zoznamy či štatistiky počtu a druhov vozidiel v SR (MDVRR SR)
+
+    zoznam chránených a inak významných území (SAŽP, možno ďalší): vrátane tzv. ""shape""
+
+   zoznam športovísk (MŠ SR)
+
+    zoznam múzeí, galérií, knižníc, atď. (MK SR)
+
+    zoznam výskumných projektov (MŠ SR)","    mapové údaje (Geodetický a kartografický ústav Bratislava, zrejme aj iní): pridať ulice, riadne zdokumentovať (čiastočne existujúce) REST API
+    zoznam PSČ, ulíc, adresných bodov (Slovenská pošta, MV SR): chýbajú v ňom aktuálne ulice v mnohých mestách + GPS koordináty
+    Obchodný register (MS SR)
+    celkovo jeden alebo viac registrov, kde by boli všetky organizácie (s.r.o., a.s., živnostníci, neziskové organizácie, nadácie, o.z., verejné inštitúcie, atď.)
+    Kataster: sprístupnenie pomocou REST API
+    zmluvy, objednávky a faktúry (ÚV SR):
+        špecificky CRZ.gov.sk: pridať REST API
+        všeobecne pre celú štátnu správu a samosprávu: použiť otvorený súborový formát alebo REST API, najlepšie s jednotnou schémou/formátom pre celú SR, ideálne s jednotnou kategorizáciou druhov výdavkov
+    cestovné poriadky (ŽSR, ale aj iný štátom či samosprávou prevádzkovaní dopravcovia): použiť napr. formát GTFS
+    plán štátneho rozpočtu (MF SR)
+    čerpanie štátneho rozpočtu (MF SR): až na úroveň transakcií (jednotlivých platieb)
+    národné štatistiky (ŠÚ SR) 
+    obchodný vestník (MS SR) 
+    súdne rozhodnutia (MS SR)
+    právne informácie (MS SR) 
+    informácie o znečistení a emisiách (SHMÚ, možno aj ďalší): voda, vzduch, zem
+    informácie z rokovaní vlády (ÚV SR): čo a kedy bolo prejednané + linky na materiály + hlasovania
+    hlasovania poslancov + prepisy ich vystúpení (NR SR)
+    výsledky volieb (ŠÚ SR)
+    zoznam rozhodnutí o kontrole (ÚVO): lepšie CSV, t.j. pridať do samotného CSV aj položky ""číslo oznámenia"", ""číslo rozhodnutia"", ""linka na plné znenie rozhodnutia v PDF"", ""ako bolo rozhodnuté"", prípadne ďalšie metaúdaje ak sú k dispozícii
+","LGIS
+PGIS
+kataster portal",,Áno,
+3/16/2015 23:40:31,Peter Netri,,"1) dáta o dopravných nehodách
+- lokácia - gps súradnice alebo ulica, číslo, mesto, psč
+- typ - medzi kým (auto-auto, auto-chodec, auto-statická vec, auto-bicykel, atď.)
+- dátum/čas
+- zranenie - nie/ľahké/ťažké/smrť a na koho strane?
+- iné informácie
+2) dáta o zásahoch rýchlej zdravotnej starostlivosti
+- kde zasahuje (adresa, gps)
+- odkiaľ vyráža
+- typ zásahu (dopravná nehoda, zhoršenie zdravotného stavu a pod.)
+- výsledok (hospitalizácia, ošetrenie na mieste, planý poplach)
+3) dáta o zásahoch hasičov
+- kde zasahuje (adresa, gps)
+- odkiaľ vyráža
+- typ zásahu (dopravná nehoda, požiar budovy a pod.)
+- skutočný/planý poplach
+4) dáta zo sčítačov
+- bicyklov (na cyklotrasách)
+- vozidiel (na cestách, mostoch, tuneloch a pod.)
+5) mapové dáta
+- cykloturistické trasy
+- cyklodopravné trasy
+- turistické trasy
+6) dáta o priestupkoch
+- lokalita
+- dátum/čas
+- typ (rušnie nočného pokoja, nesprávne parkovanie, proti občianskemu spolunažívaniu, konzumácia alkoholu na verejnosti a pod.)
+7) dáta o trestných činoch
+- lokalita
+- dátum/čas
+- typ (vražda, násilné trestné činy, finančné, a pod.)
+8) dáta o cestovných poriadkoch všetkých hromadných prepravcoch
+- železnice, autobusy a pod.
+9) dáta z vozidiel MHD
+- dáta z palubných počítačov (pre optimalizáciu trás, návrh zmeny preferenice MHD, úpravy signálneho plánu a pod.)
+10) dáta o evidencii
+- osôb, psov, vozidiel, a pod.
+- lokalita
+11) anonymizované dáta o obyvateľoch
+- dosiahnuté vzdelanie/vek/a pod.
+- lokalita (umožní zobraziť kde bývajú vysokoškoláci/ľudia medzi 50-60 rokov)","katastrálne dáta, vrátane máp (vektorový formát) - pravidelná aktualizácia
+iné geografické dáta","identifikácia problémových miest a následne návrh zlepšenia (napr. najnehodovejších ciest a križovatiek s možnosťou návrhu zvýšenia bezpečnosti znížením rýchlosti, zúžením jazdných pruhov a pod,)",Zverejním analýzu dát získaných cez Open Data,Áno,Otvorené dáta prispejú k využitiu dát v rôznych aplikáciach a zlepšia informovanosť verejnosti. Analýzou dát môže verejnosť i samospráva navrhnúť optimalizáciu v danej oblasti (napr. v mieste s vysokou kriminalitou väčší počet policajných hliadok)
+3/17/2015 0:09:53,Dagmar Bošanská,Arthur D. Little,"1. Informácie o malých a stredných podnikateľoch - veľkosť, odvetvie podnikania, export vs. predaj na domácom trhu, prijaté granty a podobne (Slovak Business Agency, Štatistický úrad)
+2. Datasety o stave dopravných komunikácií (zmeny značiek, zákazy vjazdu a iné) (Ministerstvo dopravy, výstavby a regionálneho rozvoja)
+3. Informácie zo sčítania obyvateľov, domov a bytov (Štatistický úrad)
+4. Evidencia sťažností: anonymizované (alebo aspoň agregované) údaje o tom, kedy a k čomu boli občanmi podané podnety + stav vybavenia (celá verejná správa)
+5. Anonymizované informácie o nehodách a priestupkoch s informáciami o výške, lokalite a rozsahu priestupku alebo nehody (Ministerstvo vnútra)
+6. Anonymizované údaje o výbere daní - geografické rozdelenie, úspešnosť výberu, pomerová výška dane živnostníci vs. MSP vs. veľké firmy vs. zamestnanci (Finančná správa)
+7.Informácie o živnostníkoch a ich registrovaných podnikateľských aktivitách (Ministerstvo vnútra)","1. Mapové údaje: presne adresné body podľa štandardu INSPIRE, pridať Points of Interest, prístup cez REST API
+2. Zmluvy vo verejnej správe v lepšom formáte a cez REST API
+3. Detailnejšie informácie o znečistení a emisiách
+4. Informácie o kriminalite cez API, aby bolo možné lepšie pracovať s dátami cez viaceré roky
+5. Pridať tagy a kategórie otvorených dát
+6. Pri zložitejších datasetoch zverejňovať aj vysvetlenie entít a dátovú schému.",,Skúsenosti z dátovej analýzy s využitím Open Data APIs,Áno,Výborná iniciatíva - do budúcna by bolo skvelé aj hlasovať o všetkých nápadoch na dasety z tejto verejnej konzultácie.
+3/17/2015 8:29:30,(neverejné),(neverejné),"1)
+pre výskum  riadenia spotreby WSN senzorov (nachádzajúc aplikácie v automatizácií, monitoringu a internetu vecí) sú nevyhnutné dáta z SHMU - najmä teplota, vlhkosť, tlak, intenzita slnečného žiarenia v danej lokalite, ako z dôvodu presnej kalibrácie tak aj riadenia spotreby senzorov, či výskum nových algoritmov
+
+2)
+početnosti vozidiel vo vybraných lokalitách v priebehu dňa - nevyhnutné pre optimalizáciu ciest a križovatiek
+
+3)
+odoberaná elektrická energia v 24h priebehu, spolu s rozrastajúcim sa záujmom o big data umožňuje zisťovať mnoho informácií o spávaní sa davu ľudí, čo vedie na optimalizáciu distrubúcie energie a výskum predikčných algoritmov ",,,,Nie,
+3/17/2015 9:54:23,Viliam Bartuš,,Plány starostlivosti o les v celom jeho rozsahu a projekty ochrany prírody pre prírodné a národné prírodné rezervácie s mapami a všetkými podkladmi na základe ktorých boli úradmi vyhlásené. ,,,,Áno,
+3/17/2015 10:02:03,Viera Bakošová,"Asociácia poskytovateľov hospodárskych informácií, , záujmové združenie právnických osôb","- vzniknuté a zaniknuté firmy (MV SR, MS SR)
+- register exportérov, importérov (ŠÚ SR)  
+- Zverejnenie neplatičov (Slovenská konsolidačná, a.s.) 
+
+","-	Register DIC vo forme datasetu (FS SR) 
+-	Uvedenie ICO v databáze neplatičov Sociálnej poisťovne (Sociálna poisťovňa)
+-	 Hospodársky register SR  (MH SR)
+-	Jednotné Zverejnenie zmlúv, objednávok, faktúr (všetky rezorty a inštitúcie)
+-	Jednotné Zverejnenie žiadateľov a prijímateľov pomoci – dotknuté rezorty a inštitúcie 
+","Väčšinu dostupných registrov pri použití v  produktoch, cieľom ktorých je  zníženie podnikateľského  rizika 
+","Ponúkame aktívnu spoluprácu vo forme analýz, zdieľaní so skúsenosťami pri  spracovaní dát, nastavenie štandardov a porovnanie so zahraničím   atď...Poskytnutie údajov v podobe datasetov bude závisieť od rozhodnutia jednotlivých členov v závislosti od vývoja a smerovania tejto pozitívnej iniciatívy ",Áno,"Aktivity ohľadne OPEN DATA vítame a v súčasnosti ponúkame ako Asociácia poskytovateľov hospodárskych informácií bezplatnú analýzu rizikovosti a vypovedacej schopnosti datasetov zameraných na obchodné a hospodárske informácie.. Privítali by sme systémový prístup so zameraním sa na  aktuálnosť poskytovaných datasetov
+
+"
+3/17/2015 11:40:27,Jana Michalková,Prešovská univerzita v Prešove,"1. údaje o ochrane prírody a krajiny (SAŽP) - zoznam chránených území, ...
+2. údaje z oblasti lesného hospodárstva (MP SR) - lesné plány, ...
+3. databáza turistických informácií (SACR) - zoznam chát, ubytovní, lyžiarskych stredísk, ...
+4. turistické trasy a cyklotrasy (KST, SACR?, ...)
+5. zoznam pamiatok, múzeí, galérií, hradov, ... (MK SR)
+6. štatistiky kriminality, dopravných nehôd, ... (MV SR)
+7. zoznam športovísk (MŠ SR)","1. mapové údaje (Geodetický a kartografický ústav Bratislava) - ulice, ...
+2. katastrálne údaje (Kataster portál)
+3. štatistické údaje (ŠÚ SR) - najmä národné, výsledky volieb, ...
+4. zoznam PSČ, ulíc, adresných bodov (Slovenská pošta, MV SR)
+5. informácie o znečistení a emisiách (MŽP SR)
+","Problematika otvorených dát je veľmi aktuálnou témou aj na akademickej pôde. Pôsobím na geografickom pracovisku, kde sú priestorové informácie nevyhnutnou súčasťou spracovania rozličných analýz (od fyzickogeografických, gisáckych až po humánnogeografické). Prístup k údajom je preto pre nás nesmierne dôležitý. Privítali by sme najmä zlepšenie dostupnosti mapových, katastrálnych a štatistických dát. ","Áno, publikovaním svojich dát (najmä mapových údajov).  ",Áno,
+3/17/2015 13:37:55,Žanet Bohunská,,"2.evidencia sťažností, podaní, petícií (všetci): anonymizované (alebo
+aspoň agregované) údaje o tom, kedy a k čomu boli občanmi podané
+podnety + stav vybavenia
+6.zoznam chránených a inak významných území (SAŽP, možno ďalší):
+vrátane tzv. ""shape""
+11.lesné hospodárske plány (???): kde sa má koľko vyťažiť
+
++ porastové mapy
++centralny portal vyrubovych konani
++inventarizácia zelene  s odkazom na správcu územia, kde sa nachádza a s termínmi možnosti namietkovania zásahov
++ stav zvery a stav odstrelu v jednotlivých poľovných revíroch v majetku SR",,,,Áno,
+3/17/2015 16:43:51,Miloslav Michalko,Prešovská univerzita v Prešove,"1. údaje o ochrane prírody a krajiny (SAŽP) - zoznam chránených území, ...
+2. údaje z oblasti lesného hospodárstva (MP SR) - lesné plány,
+3. databáza turistických informácií (SACR) - zoznam chát, ubytovní, lyžiarskych stredísk, ...
+4. turistické trasy a cyklotrasy (KST, SACR?, ...)
+5. zoznam pamiatok, múzeí, galérií, hradov, ... (MK SR)
+6. štatistiky kriminality, dopravných nehôd, ... (MV SR)
+7. zoznam športovísk (MŠ SR)","1. mapové údaje (Geodetický a kartografický ústav Bratislava) - ulice, ...
+2. katastrálne údaje (Kataster portál)
+3. štatistické údaje (ŠÚ SR) - najmä národné, výsledky volieb, ...
+4. zoznam PSČ, ulíc, adresných bodov (Slovenská pošta, MV SR)
+5. informácie o znečistení a emisiách (MŽP SR)",,,Áno,
+3/17/2015 18:02:57,Martin Turček,Transparency International Slovensko,"1.Dáta o zákazkách, ponukách, referenciách (a pod.) na elektronickom trhovisku ministerstva vnútra - eks.sk. Tieto dáta je potrebné poskytnúť k dispozíci verejnosti na stiahnutie. (Ministerstvo vnútra)
+
+2. Účtovné závierky aspoň štátnych firiem k dispozícii v strojovo prístupnej a stiahnuteľnej podobe. (Ministerstvo financií)
+
+3. Majetkové priznania sudcov v spracovateľnej a stiahnuteľnej podobe (Súdna rada)
+
+4. Databáza projektov podporených z eurofondov
+
+5. Databáza dotácií od subjektov verejnej správy a štátnych firiem
+
+6. Súbor všetkých pripomienok v medzirezortnom pripomienkovom konaní (Ministerstvo spravodlivosti)","1. Rôzne databázy štatistického úradu(dáta o voľbách(hlavne pri starších voľbách), obciach, ...), ktoré sú k dispozícii na stránke a dá sa k nim preklikať, ale nie sú prístupé, ani stiahnuteľné v agregátnej tabuľkovej podobe. Ide o problém veľkej časti dát štatistického úradu. (Štatistický úrad)
+
+2. Zlepšiť možnosti identifikácie osôb zapísaných v obchodnom registri(orsr.sk) aspoň o dátum narodenia. Tento údaj je k dispozícii pri osobnom nahliadnutí v registri, aj vo výpise z registra, považujeme ho za nápomocný aj v elektronickom registri. Ak by predsa len nebolo možné zverejniť dátum, pomohla by aj jeho časť, napríklad rok. (Registrové súdy)",,"Prispievame pravidelne správami a analýzami založenými na open data, prípadne na nami vyzbieraných dátach.
+V rámci otvorenosti zverejňujeme v takýchto prípadoch aj naše dátové výstupy k dispozícii k ďalšiemu nahliadnutiu, alebo spracovaniu.
+
+",Áno,
+3/17/2015 20:41:18,Marek Poláček,LZ VLK,"- Sprístupniť dáta z PSOL (program starostlivosti o les), všetky údaje, ktoré obsahuje PSOL, doplniť možnosť exportu do http://gis.nlcsk.org/lgis. Národné lesnícke centrum
+- Sprístupniť plánované a vykonané ťažby dreva podľa jednotlivých lesných JPRL, doplniť do http://gis.nlcsk.org/lgis. Národné lesnícke centrum
+- Sprístupniť aktuálne ťažbové mapy, dostupné, aj ako GIS shape súbory, ďalej dostupnosť  cez WMS, WFS, REST API, doplniť funkčnosť do http://gis.nlcsk.org/lgis. Národné lesnícke centrum
+- Sprístupniť dáta o aktuálnych počtoch a druhoch zvery, počtoch a druhoch zvery určených na odstrel a ulovených v jednotlivých poľovných revíroch, doplniť do http://lvu.nlcsk.org/polovgis/, Národné lesnícke centrum
+- Vytvoriť mapu poľovníckych zariadení, dostupnú aj ako GIS shape súbory, ďalej dostupnosť  cez WMS, WFS, REST API a zoznam a popis poľovníckych zariadení aj s ich vlastníctvom. Doplniť funkčnosť do http://lvu.nlcsk.org/polovgis/ , Národné lesnícke centrum
+- Sprístupniť dáta o plánovaných a uskutočnených spoločných poľovačkách, počty a druhy plánovanej a ulovenej zvery. Vytvoriť mapu s výstrahou na územiach, kde sa aktuálne poľovačky konajú. Národné lesnícke centrum, Okresné lesné úrady, Ministerstvo pôdohospodárstva a rozvoja vidieka SR
+- Sprístupniť centrálny web, ktorý by obsahoval dáta z pasportizácie a inventarizácia plôch mestskej zelene. Ďalej dáta o pripravovaných, prebiehajúcich a ukončených výrubových konaniach aj s mapou dostupnou aj ako ako GIS shape súbory, ďalej dostupnosť  cez WMS, WFS, REST API. MŽP, ŠOP SR, SAŽP, ZMOS
+- Sprístupniť dáta o chránených územiach na území SR ( CHKO, NP, CHA, PR, PP,  NPR, NPP) ,dáta s podrobným popisom, žiadosťou o vyhlásenie, dôvodom ochrany, podobne ako je na http://uzemia.enviroportal.sk/, ale dáta uložiť len v digitálnej, strojom spracovateľnej forme aj s jednotnou mapou  dostupnou aj ako GIS shape súbory, ďalej dostupnosť mapy cez WMS, WFS, REST API. ŠOPSR, SAŽP
+- Sprístupniť dáta o plánovaných a vykonaných chemických postrekoch, poľnohospodárske družstvá a  Lesy SR. Ministerstvo pôdohospodárstva a rozvoja vidieka SR
+- Sprístupniť dáta z meteorologických, hydrologických meraní pozemných meracích staníc aj s ich históriou. SHMÚ
+","- pridať aktuálne lesné porastové mapy dostupné, ako shape súbory, vhodné pre prácu v GIS sw, ďalej dostupnosť  cez WMS, WFS, REST API, doplniť funkčnosť do http://gis.nlcsk.org/lgis. Národné lesnícke centrum
+- pridať aktuálne mapy poľovných revírov, dostupné, ako GIS shape súbory, ďalej dostupnosť  cez WMS, WFS, REST API, doplniť funkčnosť do http://lvu.nlcsk.org/polovgis/. Národné lesnícke centrum
+- pridať do mapy lesných a pozemných komunikácií SR, export, ako GIS shape súbory, ďalej dostupnosť  cez WMS, WFS, REST API, doplniť funkčnosť do http://lvu.nlcsk.org/lc . Národné lesnícke centrum
+- pridať aktuálne zoznamy poľovníckych organizácií, doplniť meno predsedu, dátum registrácie do http://gis.nlcsk.org/DatasetyNlc/Zoznam_PolovOrganiz.svc/xml/0. Národné lesnícke centrum
+- pridať dáta o inváznych rastlinách s mapou ich výskytu, mapa ako GIS shape súbor, ďalej dostupnosť cez WMS, WFS, REST API, doplniť funkčnosť do http://www.sopsr.sk/publikacie/invazne/index.php?id=mapy. ŠOP SR.",Všetky požadované dáta využívame pri kontrole ochrany prírody. Splnenie našich požiadaviek by viedlo k zefektívneniu a zlepšeniu našej činnosti.,"Po dohode, by bolo možné publikovať niektoré z našich spracovávaných dát.",Áno,"Ideálne by bolo zverejniť všetky dáta ktorých vznik zaplatil štát, s výnimkou tých, ktorých obsah podlieha utajeniu."
+3/17/2015 22:01:30,(neverejné),,"meteorologické merania / SHMÚ
+cestovné poriadky verejnej dopravy / MDVRR?
+adresné body / MV
+kataster nehnuteľností: mapa, LV, konania / ÚGKK
+stavebné konanie: poloha+plán stavby, priebeh konania / jednotlivé stavebné úrady
+dopravné značky s polohou / SSC+obce
+lesné hospodárske plány / NLC?","obchodný register / MV -> strojovo spracovateľné údaje
+živnostenský register / MV -> strojovo spracovateľné údaje
+cesty po úseokch / SSC -> vektorové údaje
+územno správne jednotky, až po základné sídelné jednotky / ŠÚ? -> vektorové údaje
+výsledky sčítania obyvateľov (rozumne anonymizované) / ŠÚ -> strojovo spracovateľné údaje
+územné plány / obce -> vektorové údaje
+zmluvy, faktúry, objednávky / obce -> všetky v rovnakej štruktúre
+",,,Nie,
+3/18/2015 8:29:05,Michal Páleník,"Inštitút zamestnanosti, NGO","cestovné poriadky MHD, medzimestských autobusov, vlakov, ... dôležité na rátanie reálne dostupnosti zaostalých regiónov
+
+údaje o plánoch ťažby a o aktuálnych ťažbách v lesoch na slovensku
+
+dáta z INSPIRE majú nejasnú až ďalšie spracovanie neumožňujúcu licenciu, výrazne reštriktívnejšiu ako rovnaké dáta ťahané z EU organizácií
+
+","mesačné štatistiky ústredia práce, sociálnych vecí a rodiny SR. momentálne sú publikované každý mesiac iný spreadsheet a s meniacou sa štruktúrou.
+
+dáta zo sčítanie obyvateľov z roku 2011 sú zle strojovo spracovateľné, licenčne nejasné, padá server pri akejkoľvek väčšej požiadavke,...
+
+celkovo eurostat ponúka dobré možnosti sťahovania dát (stiahnutie číselníkov, dát v TSV,upustili aj od povinnej registrácie), slovenšký štatistiký úrad tieto možnosti neponúka.
+
+údaje o počasí: shmu publikuje dáta s veľmi reštriktívnou licenciu (oi si prisvojili logo univerzity komenského), strojovo ťažko spracovateľné, údaje z aladin modela nespracovateľné.
+
+územné plány obcí sú publikované spravidla ako PDF v rôznorodej štruktúre a vôbec nie sú georeferencované ani natočené správnym smerom.
+
+mapa obcí pre stavebné povolenia: absentuje dostupná mapa s jednotlivými stavbami, dopravnými značkami... pevne verím že takáto existuje (napr zistiť aké značky sú na ktorej ulici. tá značka bola odstránená alebo ukradnutá?)
+
+",v zásade rôzne štatistiky na modelovanie,,Áno,
+3/18/2015 12:48:29,Ivana Moncmanová,,spristupnenie informacie o posudzovani stavu stromov pred ich vyrubmi v mestach.Meno dendrologa a presny popis stavu stromov.,,,,Áno,
+3/18/2015 14:06:29,(neverejné),,"1. Celý legislatívny proces z webu Portálu právnych predpisov a Národnej rady Slovenskej republiky (jednotlivé štádiá materiálov, dátumy, pripomienky, vyhodnotenie pripomienok, materiály, prílohy, správy výborov NR SR, hlasovania, pozmeňujúce návrhy, atď) v strojovo spracovateľnej forme. 
+2. Zbierka zákonov a všetky predpisy v strojovo spracovateľnej forme. 
+3. Stavebné a územné konania. 
+4. Mapové údaje z Katastra nehnuteľností v strojovo spracovateľnej forme. 
+5. Rozpočty jednotlivých organizácií verejnej správy so všetkými úpravami v strojovo spracovateľnej forme. 
+6. Výzvy na predkladanie projektov (napr. pre čerpanie nenávratných finančných prostriedkov, atď), verejné súťaže vyhlasované verejnou správou. 
+7. Poskytovanie a čerpanie dotácií, eurofondov, štátnych úverov v strojovo spracovateľnej forme. 
+8. Účtovníctvá organizácií verejnej správy, vrátane počtov zamestnancov, evidencie majetku, inventárnych kariet, faktúr, objednávok, ich úhrad, atď. 
+9. Zoznamy organizácií verejnej správy, príspevkových organizácií, ich úradných hodín v strojovo spracovateľnej forme. 
+10. Zoznamy poskytovaných služieb jednotlivými organizáciami verejnej správy v strojovo spracovateľnej forme. 
+11. Voľné pracovné miesta v organizáciách verejnej správy v strojovo spracovateľnej forme. 
+",,,,Nie,
+3/18/2015 18:01:29,(neverejné),(neverejné),"Údaje zo štatistického zisťovania (Štatistický úrad).
+Dôvod: vzhľadom na to, že neexistuje iná povinnosť pre združovanie podnikateľov (komory), neexistuje iný spôsob ako sa dopracovať k údajom, ktoré vyjadrujú výkonnosť jednotlivých odvetví, ich exportné a importné parametre a pod. Naviac by bolo tento systém rozšíriť o ďalšie parametre - technológie, kapacity VaV",,,,Nie,
