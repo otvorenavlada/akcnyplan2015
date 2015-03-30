@@ -19,3 +19,9 @@ Veríme, že otvorenejšia komunikácia pomôže prispieť k porozumeniu, zvýš
 - [Úloha 3: Vykonať prieskum po najžiadanejších datasetoch](uloha-03)
 - [Úloha 4: Prednostne publikovať prioritné datasety](uloha-04)
 - [Úloha 5: Vypracovať OpenData stratégiu a predložiť ju vláde](uloha-05)
+
+## Licencia
+
+[![CC Zero](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Na texty v tomto GitHub repozitári (stránky README.md) sa vzťahuje licencia / vyhlásenie o zrieknutí sa práv [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/), ak nie je uvedené inak.
