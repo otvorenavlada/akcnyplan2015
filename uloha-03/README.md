@@ -32,7 +32,7 @@ Boli aj požiadavky na sprístupnenie údajov, ktoré nie je možné zverejniť 
 
 ## Vyhodnotenie dopytu
 
-Ako prioritné datasety boli vyhodnotené nasledovné datasety **[POZOR, DRAFT: bude sfinalizované do 2015-03-31]**:
+Ako prioritné datasety boli vyhodnotené nasledovné datasety:
 
 - **Kataster nehnuteľností (ÚGKK)**. Katastrálne dáta boli suverénne najžiadanejšie. Účastníci verejnej konzultácie majú záujem o vektorové aj popisné údaje (LV, konania), preferujú prístup bez CAPTCHA, bez obmedzenia počtu dotazov, cez REST API, s pravidelnou aktualizáciou.
 - **Výsledky volieb (Štatistický úrad)**. Výsledky volieb sú síce k dispozícii, ale ich strojové spracovanie je problematické a treba ho zlepšiť.
