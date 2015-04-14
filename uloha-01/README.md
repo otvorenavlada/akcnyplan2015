@@ -31,6 +31,8 @@ Dňa 15.3.2015 vstúpilo do platnosti novelizované znenie [Výnosu MF SR o šta
 
 Očakáva sa, že zodpovedné organizácie zaktualizujú informácie o svojich datasetoch a do zoznamu doplnia aj datasety v organizáciách vo svojej pôsobnosti. Pre vypracovanie zoznamu datasetov **odporúčame vychádzať z tabuľky k Akčnému plánu OGP na roky 2012-2013** so stĺpcami v nasledovnej podobe (oproti tabuľke z roku 2012 len mierne upravené):
 
+**Pre zjednodušenie Vašej práce: [šablóna na stiahnutie](https://raw.githubusercontent.com/otvorenavlada/akcnyplan2015/master/uloha-01/sablona.zip)**
+
 - **ID datasetu** (akékoľvek jedinečné pomenovanie -- napr. skratka a pod. -- alebo poradové číslo)
 - **Názov datasetu**
 - **Výstižný krátky popis**
