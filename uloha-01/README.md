@@ -8,16 +8,16 @@
 
 ## Vysvetlenie
 
-Táto úloha nadväzuje na uplynulý Akčný plán OGP (na roky 2012-2013). V ňom bola úloha "Vypracovať zoznam všetkých datasetov vrátane technickej špecifikácie a plán ich postupného zverejnenia na portáli otvorených dát." Tento zoznam datasetov sa v minulom posielal na Úrad splnomocnenca vlády pre rozvoj občianskej spoločnosti (ÚSVROS) a bol [zverejnený na jeho webe](http://www.otvorenavlada.gov.sk/datasety-statnej-spravy/) aj na [portáli otvorených dát](http://data.gov.sk/dataset/zoznam-datasetov-statnej-spravy).
+Táto úloha nadväzuje na uplynulý Akčný plán OGP (na roky 2012-2013). V ňom bola úloha "Vypracovať zoznam všetkých datasetov vrátane technickej špecifikácie a plán ich postupného zverejnenia na portáli otvorených dát." Tento zoznam datasetov sa v minulom období posielal na Úrad splnomocnenca vlády pre rozvoj občianskej spoločnosti (ÚSVROS) a bol [zverejnený na jeho webe](http://www.otvorenavlada.gov.sk/datasety-statnej-spravy/) aj na [portáli otvorených dát](http://data.gov.sk/dataset/zoznam-datasetov-statnej-spravy).
 
 V novom akčnom pláne (na rok 2015) nastali tieto zmeny:
 
 - Úloha sa rozširuje o rozpočtové a príspevkové organizácie v pôsobnosti zodpovedných organizácií (tzn. zodpovedná organizácia neodošle informáciu len o "svojich" datasetoch, ale aj o datasetoch, ktoré spravujú organizácie v jej pôsobnosti).
 - Tiež sa mení spôsob zasielania: očakáva sa, že organizácie zoznam datasetov **nahrajú priamo na portál otvorených dát** a nebudú ich posielať cez ÚSVROS.
 
-Prečo tieto zmeny? Organizácie verejnej správy by mali **poznať svoj "dátový inventár" a tento zverejňovať a priebežne aktualizovať**. Je žiaduce, aby záznamy v ňom, ktoré nepodliehajú utajeniu, boli verejne dostupné a aktualizované. Preto je flexibilnejšie mať plnú kontrolu, aktualizovať údaje priamo na [data.gov.sk](http://data.gov.sk/) a neposielať ich cez tretiu stranu (ÚSVROS). Pri priamom prístupe je jednoduchšie dáta opraviť či doplniť bez zbytočného zdržania.
+Prečo tieto zmeny? Organizácie verejnej správy by mali **poznať svoj "dátový inventár", tento zverejňovať a priebežne aktualizovať**. Je žiaduce, aby záznamy v ňom, ktoré nepodliehajú utajeniu, boli verejne dostupné a aktualizované. Preto je flexibilnejšie mať plnú kontrolu, aktualizovať údaje priamo na [data.gov.sk](http://data.gov.sk/) a neposielať ich cez tretiu stranu (ÚSVROS). Pri priamom prístupe je jednoduchšie dáta opraviť či doplniť bez zbytočného zdržania.
 
-Taktiež sa ukázalo, že viaceré rezorty nemajú prehľad o tom, aké všetky dáta sa vlastne v organizáciách v jej pôsobnosti nachádzajú. Vytvorenie dátového inventára spolu s plánom zverejňovania má byť krokom, aby sa tento stav zlepšil. Dáta, ktoré sú v jednotlivých rezortoch "ukryté", môžu byť totiž **užitočné ako pre verejnosť, tak aj pre rezort samotný**.
+Taktiež sa ukázalo, že viaceré rezorty nemajú prehľad o tom, aké všetky dáta sa vlastne v organizáciách v ich pôsobnosti nachádzajú. Vytvorenie dátového inventára spolu s plánom zverejňovania má byť krokom, aby sa tento stav zlepšil. Dáta, ktoré sú v jednotlivých rezortoch "ukryté", môžu byť totiž **užitočné ako pre verejnosť, tak aj pre rezort samotný**.
 
 Dňa 15.3.2015 vstúpilo do platnosti novelizované znenie [Výnosu MF SR o štandardoch pre ISVS č. 55/2014 Z. z.](http://www.zakonypreludi.sk/zz/2014-55). K nemu uvádzame niekoľko poznámok:
 
@@ -29,7 +29,7 @@ Dňa 15.3.2015 vstúpilo do platnosti novelizované znenie [Výnosu MF SR o šta
 
 ## Postup riešenia
 
-Očakáva sa, že zodpovedné organizácie zaktualizujú informácie o svojich datasetoch a do zoznamu doplnia **aj datasety v organizáciách vo svojej pôsobnosti**. Pre vypracovanie odporúčame **[stiahnuť si a vyplniť šablónu](https://raw.githubusercontent.com/otvorenavlada/akcnyplan2015/master/uloha-01/sablona.zip)**, ktorej štruktúra vychádza z Akčného plánu OGP na roky 2012-2013. Aktuálna štruktúra je nasledovná:
+Očakáva sa, že zodpovedné organizácie zaktualizujú informácie o svojich datasetoch a do zoznamu doplnia **aj datasety v organizáciách vo svojej pôsobnosti**. Pre vypracovanie odporúčame **[stiahnuť si a vyplniť šablónu](https://raw.githubusercontent.com/otvorenavlada/akcnyplan2015/master/uloha-01/sablona.zip)**, ktorej štruktúra vychádza z Akčného plánu OGP na roky 2012-2013. Minimálna štruktúra je nasledovná (v prípade potreby je možné doplniť aj iné údaje, napr. poznámku):
 
 - **ID datasetu** (akékoľvek jedinečné pomenovanie -- napr. skratka a pod. -- alebo poradové číslo)
 - **Názov datasetu**
@@ -37,11 +37,11 @@ Očakáva sa, že zodpovedné organizácie zaktualizujú informácie o svojich d
 - **Správca datasetu** (kontakt na správcu, napr. organizácia, sekcia, odbor, meno garanta -- ak je to možné a vhodné: e-mail, telefónne číslo)
 - **Povinná inštitúcia** (napr. názov priamo riadenej organizácie)
 - **Stav elektronizácie** (napr. "neštruktúrovaný text v textovom procesore", "tabuľkové údaje")
-- **Formát, v ktorom sú údaje uložené** (napr. xlsx, typ databázy a pod.)
+- **Formát, v ktorom sú údaje uložené** (napr. "xlsx", "databáza MySQL" a pod.)
 - **Odhadnutý rozsah údajov** (napr. počet objektov v dátovom zdroji, objem údajov)
 - **Údaj o čase vzniku, aktuálnosti, alebo spôsobe či frekvencii aktualizácie údajov**
 - **Bližšia špecifikácia obsahu** (napr. aké dátové zdroje sa v datasete nachádzajú, aká je štruktúra dát a pod.)
-- **Zverejniteľnosť** (napr. "už zverejnené", "možné zverejniť v celom rozsahu", "možné zverejniť len po anonymizácii / úprave", "možné zverejniť len v agregovanej podobe" a pod.)
+- **Zverejniteľnosť** (napr. "už zverejnené", "možné zverejniť v celom rozsahu", "možné zverejniť len po anonymizácii", "možné zmeniť až po úprave" + popis úpravy, "možné zverejniť len v agregovanej podobe" a pod.)
 - **Odôvodnenie** (odôvodnenie, resp. bližšie vysvetlenie zverejniteľnosti -- v prípade už publikovaného obsahu sa uvedie URL adresa)
 - **Plán zverejnenia** (dátum dokedy budú údaje publikované)
 
