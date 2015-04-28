@@ -54,3 +54,5 @@ Uprednostniť by sa mali tieto typy dát: 1) tie, ktoré organizácia sama vním
 - V prípade nejasností ÚSVROS rád poskytne konzultáciu.
 
 Keď zodpovedná organizácia skompletizuje takúto tabuľku, de facto vytvorí akýsi "nultý dataset" ("dataset so zoznamom datasetov"). Tento by sa mal zverejniť presne takým postupom [**ako akýkoľvek iný dataset, na portáli otvorených dát data.gov.sk**](http://data.gov.sk/). K tomuto môžu byť nápomocné poznámky k [úlohe č. 2](../uloha-02).
+
+Úloha sa **považuje za splnenú nahratím zoznamu datasetov na data.gov.sk** tak, aby bol verejne dostupný. Nie je potrebné posielať oficiálny list ministra, resp. vedúceho ústredného orgánu štátnej správy na splnomocnenca vlády pre rozvoj občianskej spoločnosti.
