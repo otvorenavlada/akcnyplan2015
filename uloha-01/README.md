@@ -34,15 +34,15 @@ Očakáva sa, že zodpovedné organizácie zaktualizujú informácie o svojich d
 - **ID datasetu** (akékoľvek jedinečné pomenovanie -- napr. skratka a pod. -- alebo poradové číslo)
 - **Názov datasetu**
 - **Výstižný krátky popis**
-- **Správca datasetu** (kontakt na správcu, napr. organizácia, sekcia, odbor, meno garanta -- ak je to možné a vhodné: e-mail, telefónne číslo)
+- **Správca datasetu** (kontakt na správcu, napr. organizácia, sekcia, odbor, meno garanta -- ak je to možné a vhodné: e-mail, telefónne číslo). Nejde o štatutárneho zástupcu inštitúcie, ale o osobu, ktorá je zodpovedná za aktuálnosť datasetu.
 - **Povinná inštitúcia** (napr. názov priamo riadenej organizácie)
-- **Stav elektronizácie** (napr. "neštruktúrovaný text v textovom procesore", "tabuľkové údaje")
+- **Stav elektronizácie** (napr. "neštruktúrovaný text v textovom procesore", "tabuľkové údaje"). Ak je rozdiel medzi aktuálnym stavom elektronizácie a plánovaným stavom elektronizácie v budúcnosti (napr. sa pripravuje nový informačný systém, do ktorého sa idú dáta migrovať), uveďte túto informáciu.
 - **Formát, v ktorom sú údaje uložené** (napr. "xlsx", "databáza MySQL" a pod.)
 - **Odhadnutý rozsah údajov** (napr. počet objektov v dátovom zdroji, objem údajov)
 - **Údaj o čase vzniku, aktuálnosti, alebo spôsobe či frekvencii aktualizácie údajov**
 - **Bližšia špecifikácia obsahu** (napr. aké dátové zdroje sa v datasete nachádzajú, aká je štruktúra dát a pod.)
 - **Zverejniteľnosť** (napr. "už zverejnené", "možné zverejniť v celom rozsahu", "možné zverejniť len po anonymizácii", "možné zmeniť až po úprave" + popis úpravy, "možné zverejniť len v agregovanej podobe" a pod.)
-- **Odôvodnenie** (odôvodnenie, resp. bližšie vysvetlenie zverejniteľnosti -- v prípade už publikovaného obsahu sa uvedie URL adresa)
+- **Odôvodnenie** (odôvodnenie, resp. bližšie vysvetlenie zverejniteľnosti -- v prípade už publikovaného obsahu sa uvedie URL adresa). V prípade, že nie je možné dataset zverejniť v plnej miere (napr. kvôli tomu, že obsahuje osobné údaje), ale je potrebné čiastočne ho anonymizovať, resp. publikovať len agregované údaje a pod., napíšte prosím vysvetlenie.
 - **Plán zverejnenia** (dátum dokedy budú údaje publikované)
 
 Uprednostniť by sa mali tieto typy dát: 1) tie, ktoré organizácia sama vníma ako zmysluplné a zároveň je ich publikovanie technicky nenáročné; a 2) dáta, o ktoré je zo strany verejnosti najväčší záujem (s tým môže pomôcť [úloha č. 3, prieskum dopytu](../uloha-03)).
