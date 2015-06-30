@@ -4,7 +4,7 @@ Vláda SR na svojom [rokovaní 11. februára 2015](http://www.rokovania.sk/Rokov
 
 ## Prečo GitHub
 
-Na podporu riešenia niektorých úloh Akčného plánu OGP na rok 2015 začal ÚSVROS využívať GitHub. Chceme sa priblížiť technologickej komunite, **bližšie s ňou spolupracovať a pomôcť jej realizovať nápady** na zlepšenie fungovania vecí verejných. Veríme, že transparentná komunikácia, aká je bežná pri otvorených softvérových projektoch, je dobrou cestou vpred.
+Na podporu riešenia niektorých úloh Akčného plánu Iniciatívy pre otvorené vládnutie (anglicky Open Government Partnership / OGP) na rok 2015 začal ÚSVROS využívať GitHub. Chceme sa priblížiť technologickej komunite, **bližšie s ňou spolupracovať a pomôcť jej realizovať nápady** na zlepšenie fungovania vecí verejných. Veríme, že transparentná komunikácia, aká je bežná pri otvorených softvérových projektoch, je dobrou cestou vpred.
 
 Otvorenosť vytvára príležitosti: publikované dáta a publikovaný obsah sa môžu **využiť novým a nečakaným spôsobom**. Preto aj materiály, z ktorých niektoré sú určené pre konkrétne orgány štátnej správy, dávame k dispozícii online, všetkým. Na čo je to dobré? Pretože sa môžu zísť aj tým, ktorým sme ich neposlali priamo. A prečo práve GitHub? Lebo je v súčasnosti jednou z najlepších platforiem na spoluprácu: informácie ako návody či metodiky sa môžu **priebežne vylepšovať, spoločne s ostatnými**. Štátni zamestnanci, ale ani komerční vývojári nemôžu myslieť na všetko. Ale všetci spoločne vymyslia a vytvoria viac. GitHub má na to [vhodné mechanizmy](https://help.github.com/articles/using-pull-requests/).
 
