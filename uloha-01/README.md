@@ -52,6 +52,7 @@ Uprednostniť by sa mali tieto typy dát: 1) tie, ktoré organizácia sama vním
 - V jednom datasete (napr. "obchodný register") môže byť viacero dátových zdrojov (napr. rôzne API, databázové tabuľky a pod.). Najdôležitejšie je uviesť údaje na úrovni detasetu a dátové zdroje spomenúť tam, kde to má význam.
 - Úloha hovorí o "všetkých" datasetoch. Ak by sa chápala ad absurdum, znamenalo by to ešte aj uvádzanie zoznamu čistiacich prostriedkov v každej zo stoviek verejných organizácií. Vytváranie nezmyselných zoznamov pravdaže nie je cieľom. Je potrebné sústrediť sa na **všetky podstatné datasety, ktoré sa týkajú činnosti organizácie** alebo také datasety, ktoré môžu byť aj z iného dôvodu zaujímavé.
 - V prípade nejasností ÚSVROS rád poskytne konzultáciu.
+- Pri tvorbe plánu publikovania datasetov (teda pri ich prioritizovaní) odporúčame konzultovať postup s potenciálnymi používateľmi a taktiež brať ohľad na [najlepšie praktiky zo zahraničia](https://cio.gov/cio-council-releases-open-data-prioritization-toolkit/).
 
 Keď zodpovedná organizácia skompletizuje takúto tabuľku, de facto vytvorí akýsi "nultý dataset" ("dataset so zoznamom datasetov"). Tento by sa mal zverejniť presne takým postupom [**ako akýkoľvek iný dataset, na portáli otvorených dát data.gov.sk**](http://data.gov.sk/). K tomuto môžu byť nápomocné poznámky k [úlohe č. 2](../uloha-02).
 
