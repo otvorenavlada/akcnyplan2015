@@ -8,9 +8,9 @@
 
 ## Vysvetlenie
 
-Aby bolo možné zverejňovať otvorené vzdelávacie zdroje (resp. otvorene licencované vedecké publikácie) na internete a zabezpečiť prístup k nim, je potrebné mať k dispozícii základné softvérové nástroje a infraštruktúru. Táto infraštruktúra môže byť plne decentralizovaná (bez centrálneho bodu) alebo spoločná (zdieľaná), resp. hybridná. Existencia centrálnych repozitárov pravdaže nevylučuje, že si niektoré inštitúcie vytvoria aj vlastné riešenia, ale dá tým, ktorí majú obmedzené IT kapacity, možnosť publikovať. Navyše môže zjednodušiť vyhľadávanie naprieč všetkými dostupnými publikáciami, ako aj zálohovanie všetkého obsahu.
+Aby bolo možné zverejňovať otvorené vzdelávacie zdroje (resp. otvorene licencované vedecké publikácie) na internete a zabezpečiť prístup k nim, je potrebné mať k dispozícii základné softvérové nástroje a infraštruktúru. Táto infraštruktúra môže byť **plne decentralizovaná (bez centrálneho bodu) alebo spoločná (zdieľaná), resp. hybridná**. Existencia centrálnych repozitárov pravdaže nevylučuje, že si niektoré inštitúcie vytvoria aj vlastné riešenia, ale dá tým, ktorí majú obmedzené IT kapacity, možnosť publikovať. Navyše môže zjednodušiť vyhľadávanie naprieč všetkými dostupnými publikáciami, ako aj zálohovanie všetkého obsahu.
 
-Úloha č. 10 má za cieľ pripraviť podklady na vytvorenie, resp. úpravu repozitára vhodného pre publikovanie otvorených vzdelávacích zdrojov a úloha č. 16 analogicky rieši repozitár pre výstupy vedy a výskumu.
+**Úloha č. 10** má za cieľ pripraviť podklady na vytvorenie, resp. úpravu repozitára vhodného pre publikovanie otvorených vzdelávacích zdrojov a **úloha č. 16** analogicky rieši repozitár pre výstupy vedy a výskumu.
 
 ## Výstupy
 
