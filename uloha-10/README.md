@@ -14,4 +14,4 @@ Aby bolo možné zverejňovať otvorené vzdelávacie zdroje (resp. otvorene lic
 
 ## Výstupy
 
-Ministerstvo školstva, vedy, výskumu a športu podalo [informáciu o splnení úloh č. 10 a 16](msvvas-10+16-list.pdf), ktorá má dve prílohy: 1) [tabuľku s prehľadom existujúcich repozitárov](msvvas-10+16-priloha1.xlsx) a 2) [popis požadovaných vlastností centrálnych repozitárov](msvvas-10+16-priloha2.pdf).
+Ministerstvo školstva, vedy, výskumu a športu podalo [informáciu o splnení úloh č. 10 a 16 (PDF)](msvvas-10+16-list.pdf), ktorá má dve prílohy: 1) [tabuľku s prehľadom existujúcich repozitárov (XLSX)](msvvas-10+16-priloha1.xlsx) a 2) [popis požadovaných vlastností centrálnych repozitárov (PDF)](msvvas-10+16-priloha2.pdf).
