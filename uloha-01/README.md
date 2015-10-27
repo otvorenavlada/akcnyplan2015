@@ -57,3 +57,16 @@ Uprednostniť by sa mali tieto typy dát: 1) tie, ktoré organizácia sama vním
 Keď zodpovedná organizácia skompletizuje takúto tabuľku, de facto vytvorí akýsi "nultý dataset" ("dataset so zoznamom datasetov"). Tento by sa mal zverejniť presne takým postupom [**ako akýkoľvek iný dataset, na portáli otvorených dát data.gov.sk**](http://data.gov.sk/). K tomuto môžu byť nápomocné poznámky k [úlohe č. 2](../uloha-02).
 
 Úloha sa **považuje za splnenú nahratím zoznamu datasetov na data.gov.sk** tak, aby bol verejne dostupný. Nie je potrebné posielať oficiálny list ministra, resp. vedúceho ústredného orgánu štátnej správy na splnomocnenca vlády pre rozvoj občianskej spoločnosti. V prípade, že takýto list s informáciou o splnení úlohy predsa len chcete poslať (napr. pre účely Vašej internej evidencie), môžete to pravdaže urobiť.
+
+## Výsledky
+
+Nasledovné organizácie zverejnili **zoznam datasetov na Portáli otvorených dát** (výsledky sa zobrazia kliknutím):
+
+- [Ministerstvo dopravy, výstavby a regionálneho rozvoja SR](http://data.gov.sk/dataset/zoznam-datasetov)
+- [Ministerstvo kultúry SR](http://data.gov.sk/dataset/zoznam-datasetov-mk-sr-a-rezortnych-organizacii-mk-sr)
+- [Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky](http://data.gov.sk/dataset/zoznam-datasetov-msvvas-sr)
+- [Ministerstvo vnútra SR](http://data.gov.sk/dataset/olan-zverejnovania-datasetov-na-rok-2015-za-mv-sr)
+- [Ministerstvo životného prostredia SR](http://data.gov.sk/dataset/zoznam-datasetov-rezortu-mzp-sr-pre-portal-otvorenych-dat)
+- [Štatistický úrad SR(http://data.gov.sk/dataset/zoznam-dataseto-susr)
+
+Pozn.: Ministerstvo financií zverejnilo výstupy z Centrálneho metainformačného systému (MetaIS), ktoré obsahujú prehľad IT služieb naprieč verejnou správou. Z týchto informácií je možné odhadnúť, aké dáta ten-ktorý systém spracúva. [Informácie o datasetoch MF SR](http://data.gov.sk/organization/ministerstvo-financii-sr).
