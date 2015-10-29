@@ -69,4 +69,6 @@ Nasledovné organizácie zverejnili **zoznam datasetov na Portáli otvorených d
 - [Ministerstvo životného prostredia SR](http://data.gov.sk/dataset/zoznam-datasetov-rezortu-mzp-sr-pre-portal-otvorenych-dat)
 - [Štatistický úrad SR](http://data.gov.sk/dataset/zoznam-dataseto-susr)
 
+Pozn.: Ministerstvo hospodárstva SR zaslalo zoznam datasetov Splnomocnencovi vlády SR pre rozvoj občianskej spoločnosti listom (č. 15749/2015-3040-22033), tento zoznam ale nebol sprístupnený cez Portál otvorených dát.
+
 Pozn.: Ministerstvo financií zverejnilo výstupy z Centrálneho metainformačného systému (MetaIS), ktoré obsahujú prehľad IT služieb naprieč verejnou správou. Z týchto informácií je možné odhadnúť, aké dáta ten-ktorý systém spracúva. [Informácie o datasetoch MF SR](http://data.gov.sk/organization/ministerstvo-financii-sr).
