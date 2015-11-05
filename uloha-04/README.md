@@ -13,3 +13,7 @@ Datasety, ktoré boli [vyhodnotené ako prioritné](../uloha-03), sa majú zvere
 ## Postup riešenia
 
 Postup riešenia tejto úlohy je obdobný ako pri [úlohe č. 2](../uloha-02).
+
+## Výsledky
+
+Údaje z Registra adries v podobe otvorených údajov je možné nájsť medzi datasetmi MV SR na [testovacej verzii nového data.gov.sk](http://datagov.globaltel.sk/dataset?q=register+adries).
