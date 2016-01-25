@@ -16,4 +16,4 @@ Postup riešenia tejto úlohy je obdobný ako pri [úlohe č. 2](../uloha-02).
 
 ## Výsledky
 
-Údaje z Registra adries v podobe otvorených údajov je možné nájsť medzi datasetmi MV SR na [testovacej verzii nového data.gov.sk](http://datagov.globaltel.sk/dataset?q=register+adries).
+Údaje z Registra adries je možné získať od MV SR [informácia na data.gov.sk](https://data.gov.sk/dataset?q=register+adries), momentálne nie v podobe otvorených údajov. Na publikovaní datasetov vyhodnotených ako prioritné sa naďalej pracuje.
